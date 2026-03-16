@@ -1,0 +1,5 @@
+{
+  "name": "OmniPilot",
+  "description": "An intelligent UI Navigator and Workflow Automator that translates screenshots and natural language into executable UI actions.",
+  "requestFramePermissions": ["microphone", "camera", "display-capture"]
+}
